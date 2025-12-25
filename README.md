@@ -1,3 +1,9 @@
+# Multi-Agent Misinformation Detection System
+
+Participated in a [Camel AI hackathon](https://www.camel-ai.org/events/mastering-multi-agent-systems-hackathon-review) in Oxford. Our team built a multi-agent system that scrapes website content via an external API, queries three OpenAI models for information extraction, and uses a fourth model to compare outputs, flag inconsistencies, and detect potential misinformation. The project gave me hands-on experience with LLM orchestration, evaluation, and prompt design.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
